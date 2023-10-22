@@ -1,0 +1,29 @@
+.about {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 70px;
+}
+.about h2 {
+  color: #fff;
+  font-family: Playfair Display;
+  font-size: 81.308px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.about .about-info {
+  display: flex;
+  align-items: center;
+  gap: 71px;
+}
+.about .about-info > p {
+  color: #fff;
+  font-family: Inter;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  width: 633.18px;
+}

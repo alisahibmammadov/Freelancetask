@@ -1,0 +1,47 @@
+.home {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 0;
+}
+.home .c-design {
+  position: absolute;
+  color: #fff;
+  font-family: Playfair Display;
+  font-size: 209.341px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-align: center;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+.home .home-left {
+}
+.home-left > span {
+  display: inline-block;
+  color: #fff;
+  font-size: 24px;
+  font-weight: 500;
+  padding-left: 109px;
+  margin-bottom: 233px;
+}
+.home-left .img-btn {
+  display: flex;
+  align-items: end;
+  gap: 200px;
+}
+.home-left .img-btn img {
+}
+.home-left .img-btn button {
+  width: 260.958px;
+  height: 72.142px;
+  /* flex-shrink: 0; */
+  color: #000;
+  font-family: Inter;
+  font-size: 38.407px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
