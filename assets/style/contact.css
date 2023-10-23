@@ -1,0 +1,77 @@
+.contact{
+display: flex;
+flex-direction: column;
+align-items: center;
+gap: 25px;
+margin: 20px 40px;
+}
+.contact h2{
+    color: #FFF;
+font-family: Playfair Display;
+font-size: 81.308px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.contact .form{
+    display: flex;
+    flex-direction: column;
+    gap: 58px;
+}
+.contact .form nav{
+    width: 855.5px;
+    border-bottom: 1px solid #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 20px;
+    padding: 10px 0;
+}
+.contact .form nav label{
+    color: #FFF;
+font-family: Inter;
+font-size: 44.748px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.contact .form nav input{
+    color: #BBB;
+font-family: Inter;
+font-size: 25px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+background: transparent;
+border: transparent;
+outline: none;
+}
+.contact .form nav textarea{
+    color: #BBB;
+    font-family: Inter;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    background: transparent;
+    border: transparent;
+    outline: none;
+    resize: none;
+    padding: 10px 0 80px;
+}
+.contact .form button{
+    width: 187.845px;
+height: 72.142px;
+flex-shrink: 0;
+background: #FFF;
+color: #000;
+font-family: Inter;
+font-size: 38.407px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+display: flex;
+align-items: center;
+justify-content: center;
+margin-top: 40px;
+}

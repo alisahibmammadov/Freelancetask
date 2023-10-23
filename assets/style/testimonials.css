@@ -1,0 +1,152 @@
+.testimonials {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 103px;
+  margin: 20px 0 40px;
+}
+.testimonials .head {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 25px;
+}
+.testimonials .head h2 {
+  color: #fff;
+  font-family: Playfair Display;
+  font-size: 81.308px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.testimonials .head p {
+  color: #fff;
+  text-align: center;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  width: 1119.743px;
+}
+.testimonials .cards-boxes {
+    display: flex;
+    gap: 55px;
+}
+.testimonials .cards-boxes .card-left {
+    display: flex;
+    flex-direction: column;
+    gap: 55px;
+}
+
+.testimonials .cards-boxes .card {
+    display: flex;
+    background: #181818;
+    align-items: center;
+}
+
+.testimonials .cards-boxes .card .card-info {
+    display: flex;
+    flex-direction: column;
+    padding-left: 23px;
+    gap: 29px;
+}
+.testimonials .cards-boxes .card .card-info h2 {
+    width: 417.167px;
+    color: #FFF;
+font-family: Inter;
+font-size: 44px;
+font-style: normal;
+font-weight: 600;
+line-height: 101.523%; /* 44.67px */
+
+}
+.testimonials .cards-boxes .card .card-info p {
+    color: #FFF;
+font-family: Inter;
+font-size: 15px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+width: 290.207px;
+}
+.testimonials .cards-boxes .card .card-info a {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    color: #FFF;
+text-align: right;
+font-family: Inter;
+font-size: 16.067px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-decoration: none;
+margin-top: 20px;
+}
+/*  */
+.testimonials .cards-boxes .card-3 {
+    display: flex;
+    flex-direction: column;
+    background: #181818;
+}
+
+.testimonials .cards-boxes .card-3 .card-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 327.077px;
+height: 362.119px;
+flex-shrink: 0;
+padding-left: 17px;
+gap: 14px;
+}
+.testimonials .cards-boxes .card-3 .card-info h2 {
+    width: 279.368px;
+    color: #FFF;
+font-family: Inter;
+font-size: 44px;
+font-style: normal;
+font-weight: 600;
+line-height: 101.523%; /* 44.67px */
+
+}
+.testimonials .cards-boxes .card-3 .card-info p {
+    color: #FFF;
+font-family: Inter;
+font-size: 15px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+width: 290.207px;
+}
+.testimonials .cards-boxes .card-3 .card-info a {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    color: #FFF;
+text-align: right;
+font-family: Inter;
+font-size: 16.067px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+text-decoration: none;
+margin-top: 34px;
+}
+/*  */
+.testimonials .see-all-reviews{
+    color: #FFF;
+font-family: Inter;
+font-size: 21.778px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+text-decoration: none;
+width: 221.952px;
+height: 77.8px;
+flex-shrink: 0;
+border: 1.361px solid #FFF;
+display: flex;
+align-items: center;
+justify-content: center;
+}
